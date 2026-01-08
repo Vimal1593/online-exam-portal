@@ -4,7 +4,7 @@ pipeline {
   parameters {
     string(
       name: 'GIT_REPO_URL',
-      defaultValue: 'https://github.com/org/payables-api.git',
+      defaultValue: 'https://github.com/Vimal1593/online-exam-portal.git',
       description: 'Git repository URL'
     )
     string(
