@@ -9,7 +9,7 @@ pipeline {
     )
     string(
       name: 'GIT_BRANCH',
-      defaultValue: 'main',
+      defaultValue: 'testa',
       description: 'Git branch to checkout'
     )
     string(
